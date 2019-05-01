@@ -46,8 +46,18 @@
 				<div class="container">
 					<section>
 						<h2>Smart Systems Lab - Univeristy of Florida</h2>
-						<a href="#" class="image fit"><img src="images/banner.jpg" alt="" /></a>
-
+						<!-- <a href="#" class="image fit"><img src="images/banner.jpg" alt="" /></a> -->
+						<div id="slideshow">
+							<div>
+								<img src="//farm6.static.flickr.com/5224/5658667829_2bb7d42a9c_m.jpg">
+							</div>
+							<div>
+								<img src="//farm6.static.flickr.com/5230/5638093881_a791e4f819_m.jpg">
+							</div>
+							<div>
+								Pretty cool eh? This slide is proof the content can be anything.
+							</div>
+						</div>
 
 
 						<p>We are very pleased that you found the way to our website and hope to provide you with all the information you are seeking on our activities. Our main research field is the design of smart embedded systems, with emphasis of run-time optimization. We investigate the design and run-time operation of high-performance and adaptive architectures with application in image processing, embedded optimization, security, and control.</p>
@@ -172,4 +182,18 @@
 			</footer>
 
 	</body>
+
+	<script>
+		$("#slideshow > div:gt(0)").hide();
+
+		setInterval(function() {
+		  $('#slideshow > div:first')
+		    .fadeOut(1000)
+		    .next()
+		    .fadeIn(1000)
+		    .end()
+		    .appendTo('#slideshow');
+		},  3000);
+	</script>
+
 </html>
