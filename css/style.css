@@ -1103,5 +1103,7 @@
 
 #slideshow img {
 	 width: auto;
-   height: 200px;
+   height: 500px;
+	 text-align: center;
+
 }
