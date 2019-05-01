@@ -1089,7 +1089,7 @@
 
 #slideshow {
     margin: auto;
-    position: relative;
+    /* position: relative; */
     padding: 10px;
 }
 
