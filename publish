@@ -1,0 +1,4 @@
+#!/bin/bash
+git add --all
+git commit -m "Adding content"
+git push -u origin master
