@@ -1106,5 +1106,6 @@
 } */
 
 #slideshow img {
+	 widht: auto;
    height: 200px;
 }
