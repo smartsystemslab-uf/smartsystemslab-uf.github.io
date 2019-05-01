@@ -1,2 +1,2 @@
-# smartsystemslab-uf.github.io
+# Welcome
 Lab Website
