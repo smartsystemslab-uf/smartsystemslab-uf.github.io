@@ -35,7 +35,7 @@ Playing a central role in the software is the Robotic Operating System (ROS) in 
 
 ### Robot Description
 
-As discussed over on the [ROS page](https://tjlw.github.io/Projects/ROS), the robot description given in the form of a URDF file makes for the organization of the robot's links and joints. [Our Arlo robot description file can be found here](). This is an adaptation of the URDF file created for the [ArloBot](https://github.com/chrisl8/ArloBot). Our file differs slightly though we do borrow the ArloBot description's caster wheel STL file for a complete visualization in RViz.
+As discussed over on the [ROS page](https://smartsystemslab-uf.github.io/Projects/ROS), the robot description given in the form of a URDF file makes for the organization of the robot's links and joints. [Our Arlo robot description file can be found here](). This is an adaptation of the URDF file created for the [ArloBot](https://github.com/chrisl8/ArloBot). Our file differs slightly though we do borrow the ArloBot description's caster wheel STL file for a complete visualization in RViz.
 
 
 <p align="center"> <img width="auto" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloRobotModelSide.png?raw=True"/> </p>
