@@ -1,4 +1,4 @@
-# SMART SYSTEM LAB
+# SMART SYSTEMS LAB
 
 This document shows the various content types you can use to create a project or news page.
 

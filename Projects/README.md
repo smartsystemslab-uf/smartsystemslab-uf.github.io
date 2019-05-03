@@ -8,8 +8,8 @@ better member of the open-source community.
 
 ## Projects
 
-- [Arlo Autonomous Ground Vehicle](https://tjlw.github.io/Projects/ArloAGV)
+- [Arlo Autonomous Ground Vehicle](https://smartsystemslab-uf.github.io/Projects/ArloAGV)
 
-- [ZyboCopter Research Platform](https://tjlw.github.io/Projects/Multicopters/ZyboCopter)
+- [ZyboCopter Research Platform](https://smartsystemslab-uf.github.io/Projects/Multicopters/ZyboCopter)
 
-- [Robotic Operating System](https://tjlw.github.io/Projects/ROS)
+- [Robotic Operating System](https://smartsystemslab-uf.github.io/Projects/ROS)
