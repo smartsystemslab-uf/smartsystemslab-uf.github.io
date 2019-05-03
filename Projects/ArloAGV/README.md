@@ -7,7 +7,7 @@
 
 # Arlo Autonomous Ground Vehicle
 
-<p align="center"> <img width="640" src="https://github.com/TJLW/tjlw.github.io/blob/master/Projects/ArloAGV/Images/ArloControlUnit.png?raw=True"/> </p>
+<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloControlUnit.png?raw=True"/> </p>
 <p align="center">
 	Arlo Ground Vehicle Research Platform
 </p>
@@ -38,13 +38,13 @@ Playing a central role in the software is the Robotic Operating System (ROS) in 
 As discussed over on the [ROS page](https://tjlw.github.io/Projects/ROS), the robot description given in the form of a URDF file makes for the organization of the robot's links and joints. [Our Arlo robot description file can be found here](). This is an adaptation of the URDF file created for the [ArloBot](https://github.com/chrisl8/ArloBot). Our file differs slightly though we do borrow the ArloBot description's caster wheel STL file for a complete visualization in RViz.
 
 
-<p align="center"> <img width="auto" src="https://github.com/TJLW/tjlw.github.io/blob/master/Projects/ArloAGV/Images/ArloRobotModelSide.png?raw=True"/> </p>
+<p align="center"> <img width="auto" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloRobotModelSide.png?raw=True"/> </p>
 <p align="center">
 	A side view of the Arlo robot model in RViz. We do not visualize the top plate or the standoffs.
 </p>
 
 
-<p align="center"> <img width="auto" src="https://github.com/TJLW/tjlw.github.io/blob/master/Projects/ArloAGV/Images/ArloRobotModelFront.png?raw=True"/> </p>
+<p align="center"> <img width="auto" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloRobotModelFront.png?raw=True"/> </p>
 <p align="center">
 	A front view of the Arlo robot model in RViz. We do not visualize the top plate or the standoffs. Notice the black box representing the laser floating above the base plate. This is due to the laser currently being mounted to the top plate that is not visualized.
 </p>
@@ -52,7 +52,7 @@ As discussed over on the [ROS page](https://tjlw.github.io/Projects/ROS), the ro
 
 For the Arlo robot, the primary transformations needed are from the laser scanner frame to the robot base frame, both wheel frames to the robot base frame, and lastly, the robot base frame to the static map frame or ground. The former two are static as the laser and the wheels are both mounted to the robot base frame. The final robot base frame to map frame transformation can be determined by dead-reckoning odometry from wheel encoders or more sophisticated odometry methods using the laser scanner.
 
-<p align="center"> <img width="640" src="https://github.com/TJLW/tjlw.github.io/blob/master/Projects/ArloAGV/Images/RobotDescriptionTFTree.png?raw=True"/> </p>
+<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/RobotDescriptionTFTree.png?raw=True"/> </p>
 <p align="center">
 	This local TF tree denotes the relationships written in the robot description URDF file. In addition, it shows the odometry frame that is not listed in the URDF file and is served by our joint interface for the Arlo robot, the motor_controller node.
 </p>
@@ -126,7 +126,7 @@ current_z_rotation = previous_z_rotation + rz * dt
 We use the RPLidar A1 on the Arlo Autonomous Ground Vehicle to produce two-dimensional point-maps. The ROS package [rplidar](http://wiki.ros.org/rplidar) for handling the interaction with the laser scanner and retrieving a [LaserScan](http://docs.ros.org/melodic/api/sensor_msgs/html/msg/LaserScan.html) message.
 
 
-<p align="center"> <img width="640" src="https://github.com/TJLW/tjlw.github.io/blob/master/Projects/ArloAGV/Images/ExampleRPLidarLaserScan.png?raw=True"/> </p>
+<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ExampleRPLidarLaserScan.png?raw=True"/> </p>
 <p align="center">
 	Example of a scan using the RPLidar ROS package and RViz to visualize.
 </p>
@@ -166,14 +166,14 @@ Digilent support documentation for Zybo Z7 warns that many USB devices will exce
 ## Pictures
 
 <p align="center">
-<img width="640" src="https://github.com/TJLW/tjlw.github.io/blob/master/Projects/ArloAGV/Images/ArloInternals.png?raw=True" /> </p>
+<img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloInternals.png?raw=True" /> </p>
 <p align="center">
 	Our Arlo setup with the ZyboZ7 SoC board as the primary control board.
 </p>
 
 
 <p align="center">
-<img src="https://github.com/TJLW/tjlw.github.io/blob/master/Projects/ArloAGV/Images/ArloBaseConfiguration.jpeg?raw=True" /> </p>
+<img src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloBaseConfiguration.jpeg?raw=True" /> </p>
 <p align="center">
 	Arlo Complete Robotic System Base Configuration
 </p>
