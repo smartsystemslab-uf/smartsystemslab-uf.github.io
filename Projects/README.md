@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://smartsystemslab-uf.github.io">Home</a> | <a href="https://smartsystemslab-uf.github.io/Projects/">Projects</a>
+<a href="https://smartsystemslab-uf.github.io">Home</a>
 </p>
 
 ## Projects
