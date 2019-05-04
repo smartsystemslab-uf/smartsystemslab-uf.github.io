@@ -22,7 +22,7 @@ Cameras are pervasively used for applications like surveillance, traffic monitor
 Inter-pixel Processing, image sensor, Image processing, VLSI, FPGA, ASIC, Bio-Inspired processing, Neuromorphic Computing.
 
 
-## Evaluation Platform 
+### Evaluation Platform 
 
 We implement the full RTL-to-GDSII flow on Application Specific Integrated Circuit (ASIC) for the Image Sensor at the block level using 1.1 V supply voltage and 800 MHz clock frequency in 45 nm technology. We used Synopsys VCS and Design Compiler to convert RTL to gate-level net-list, Cadence Innovus to Place and Route of the synthesized net-list, Cadence Calibre to check DRC violation, and finally Synopsys Primetime for Static Timing Analysis using Nangate library as process design kit (PDK). Besides, to evaluate the performance, we also implement the design on the FPGA board provided by Xilinx (Kintex Ultra scale plus evaluation board) using Vivado design suite 18.2. While using the FPGA, we concentrate on the RTL design which also implementable on the ASIC platform.   
 
@@ -34,6 +34,10 @@ The ultimate goal of the project is to truncate the redundant information to acc
 
 Comparison of frame-based and event-based processing for a scene with three objects is presented in the figure above. The object 1 is a bird sitting on a branch which is on the top right corner of the image. The object 2 contains some insignificant scattered moving objects. Lastly, the object 3 is a flying bird who is flying in a serpentine way. In the frame based processing on the left, each frame is produced after executing each pixel and the frames are produced after a sudden time interval. Conversely, in our event-driven processing system, on the right, responds if there is a significant event. Here the processing for object 1 is discarded since there is no temporal change. Though the Object 2 has temporal change but it does not carry relevant information. Only object 3 has not redundant information and it is our target to perform processing on the serpentine path of the object 3 as shown in this figure.
 
-### Overview of the Project
+### Overall Benifit of the Project
 
-It 
+- The integration of several computational layer in the sensor provides in-sensor processing and brings the computational unit close to image sensor
+- Pixel-Parallel design gives the bebefit of parallel processing and exhibits high acceleration of low/mid-level applications in the machine vision application.
+- Bio-inspired Computing removes the temporal and spatial redundancy and it saves significant power and evergy in the hierarchical layers. Parallelly, the computing system reduces the data volume in each layer and it reduces the burden to the external sequential processor and accelerates the sequential operation in the vision application.
+- The processors in each layer are reconfigurable to different application in ASIC. This allows flexibility in the design and enables us to apply the sensor for different application. 
+
