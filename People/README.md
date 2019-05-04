@@ -1,6 +1,5 @@
 <p align="right">
-<a href="https://smartsystemslab-uf.github.io">Home</a>
-<a href="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/tree/master/People">People</a>  
+<a href="https://smartsystemslab-uf.github.io">Home</a> 
 </p>
 
 
