@@ -10,4 +10,4 @@
 - Jubaer Hossain Pantho
 - Sujan Kumar Saha
 - Danielle Kwadjo
-- Pankaj Bhowmik
+- [Pankaj Bhowmik]https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/People/pankaj.md
