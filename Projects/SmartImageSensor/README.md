@@ -17,6 +17,7 @@ Cameras are pervasively used for applications like surveillance, traffic monitor
 <p align="center">
 	Block Diagram of the Computational Units in the Image Sensor
 </p>
+
 ### Keywords
 
 Inter-pixel Processing, image sensor, Image processing, VLSI, FPGA, ASIC, Bio-Inspired processing, Neuromorphic Computing.
