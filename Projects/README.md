@@ -9,3 +9,5 @@
 - [ZyboCopter Research Platform](https://smartsystemslab-uf.github.io/Projects/Multicopters/ZyboCopter)
 
 - [Robotic Operating System](https://smartsystemslab-uf.github.io/Projects/ROS)
+
+- Smart Image Sensor
