@@ -2,6 +2,13 @@
 <a href="https://smartsystemslab-uf.github.io">Home</a> | <a href="https://smartsystemslab-uf.github.io/Projects/">Projects</a>
 </p>
 
+<!-- LEAVE THIS HEADER - It allows easier navigation to home and project pages -->
+<!--########################################################################################################-->
+
+
+
+
+
 # Simple Title
 
 Content...........
@@ -16,15 +23,19 @@ A picture...
 	This is a picture with a caption. Direct link to location in this repository of the image used for the src="" attribute above: https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloControlUnit.png?raw=True
 </p>
 
-For the source of pictures, use the below link with <YourProjectFolder>/Images/<YourImage>.png?raw=True appended to the end.
+For the source of pictures, use the below link with "YourProjectFolder/Images/YourImage.png?raw=True" appended to the end.
 https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/
 
 
 
-# Links
+## Links
 [This is a text link.](https://googe.com)
 
 
+
+## Contributors
+- Person 1
+- Person 2
 
 
 Updated: Day Month Year, Published: Day Month Year

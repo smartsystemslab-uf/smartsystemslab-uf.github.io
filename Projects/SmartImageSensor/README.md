@@ -1,7 +1,6 @@
 <p align="right">
-<a href="https://tjlw.github.io/">Go to Home page</a>
+<a href="https://smartsystemslab-uf.github.io">Home</a> | <a href="https://smartsystemslab-uf.github.io/Projects/">Projects</a>
 </p>
-
 
 
 
@@ -23,7 +22,7 @@ Cameras are pervasively used for applications like surveillance, traffic monitor
 Inter-pixel Processing, image sensor, Image processing, VLSI, FPGA, ASIC, Bio-Inspired processing, Neuromorphic Computing.
 
 
-### Evaluation Platform 
+### Evaluation Platform
 
 We implement the full RTL-to-GDSII flow on Application Specific Integrated Circuit (ASIC) for the Image Sensor at the block level using 1.1 V supply voltage and 800 MHz clock frequency in 45 nm technology. We used Synopsys VCS and Design Compiler to convert RTL to gate-level net-list, Cadence Innovus to Place and Route of the synthesized net-list, Cadence Calibre to check DRC violation, and finally Synopsys Primetime for Static Timing Analysis using Nangate library as process design kit (PDK). Besides, to evaluate the performance, we also implement the design on the FPGA board provided by Xilinx (Kintex Ultra scale plus evaluation board) using Vivado design suite 18.2. While using the FPGA, we concentrate on the RTL design which also implementable on the ASIC platform.   
 
@@ -40,5 +39,7 @@ Comparison of frame-based and event-based processing for a scene with three obje
 - The integration of several computational layer in the sensor provides in-sensor processing and brings the computational unit close to image sensor
 - Pixel-Parallel design gives the bebefit of parallel processing and exhibits high acceleration of low/mid-level applications in the machine vision application.
 - Bio-inspired Computing removes the temporal and spatial redundancy and it saves significant power and evergy in the hierarchical layers. Parallelly, the computing system reduces the data volume in each layer and it reduces the burden to the external sequential processor and accelerates the sequential operation in the vision application.
-- The processors in each layer are reconfigurable to different application in ASIC. This allows flexibility in the design and enables us to apply the sensor for different application. 
+- The processors in each layer are reconfigurable to different application in ASIC. This allows flexibility in the design and enables us to apply the sensor for different application.
 
+
+Updated: 6 March 2019, Published: 4 March 2019
