@@ -1,4 +1,4 @@
-# Smart Systems Lab
+# Documentation
 
 This page is meant help everyone understand GitHub and the setup of our new lab website.
 
@@ -10,7 +10,7 @@ There are a number directories in the website folder that is downloaded. These a
 - Docs
 - Projects
 
-This website is automatically generated for us, we just have to provide the text and a little bit of text styling. These folders hold the content of the webpages that we will see. All pages are built with the markdown language and will be in a README.md file. This page is an example of such.
+This website is automatically generated for us, we just have to provide the text and a little bit of text styling. These folders hold the content of the webpages that we will see. All pages are built with the markdown language and will be in a README.md file. This page is an example of such. The source can be seen at [https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Docs/README.md](https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Docs/README.md). The actual webpage that is produced can be seen at [https://smartsystemslab-uf.github.io/Docs/](https://smartsystemslab-uf.github.io/Docs/).
 
 
 
@@ -21,4 +21,4 @@ This folder holds this page, HowTo.md, and a README.md file that should be used 
 Additionally, the file
 
 
-### Project Pages
+### Projects
