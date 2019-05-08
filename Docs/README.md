@@ -1,41 +1,24 @@
-<p align="right">
-<a href="https://smartsystemslab-uf.github.io">Home</a> | <a href="https://smartsystemslab-uf.github.io/Projects/">Projects</a>
-</p>
+# Smart Systems Lab
 
-<!-- LEAVE THIS HEADER - It allows easier navigation to home and project pages -->
-<!--########################################################################################################-->
+This page is meant help everyone understand GitHub and the setup of our new lab website.
 
+- The first requirement is a GitHub account and either a command line interface or desktop client, like the [GitHub Desktop application](https://desktop.github.com), for accessing the git repository for the website. Please send Taylor, tjlwhitaker@gmail.com, an email containing your GitHub username so that you can be added as a contributor.
 
-just testing, still testing
+- Once you are added to the repo, you will be able to clone the repository to your own computer so that you can start to make and edit your own project pages.
 
+There are a number directories in the website folder that is downloaded. These are the important ones.
+- Docs
+- Projects
 
-# Simple Title
-
-Content...........
-
+This website is automatically generated for us, we just have to provide the text and a little bit of text styling. These folders hold the content of the webpages that we will see. All pages are built with the markdown language and will be in a README.md file. This page is an example of such.
 
 
 
-A picture...
+### Docs
 
-<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloControlUnit.png?raw=True"/> </p>
-<p align="center">
-	This is a picture with a caption. Direct link to location in this repository of the image used for the src="" attribute above: https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloControlUnit.png?raw=True
-</p>
+This folder holds this page, HowTo.md, and a README.md file that should be used as a template for your own page.
 
-For the source of pictures, use the below link with "YourProjectFolder/Images/YourImage.png?raw=True" appended to the end.
-https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/
+Additionally, the file
 
 
-
-## Links
-[This is a text link.](https://googe.com)
-
-
-
-## Contributors
-- Person 1
-- Person 2
-
-
-Updated: Day Month Year, Published: Day Month Year
+### Project Pages
