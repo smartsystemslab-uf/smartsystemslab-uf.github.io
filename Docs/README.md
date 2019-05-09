@@ -1,15 +1,18 @@
 # Documentation
 
-This page is meant help everyone understand GitHub and the setup of our new lab website.
+This page is meant help everyone understand GitHub and the setup of our new lab website as well as how to add/edit project and news pages.
 
 - The first requirement is a GitHub account for accessing the git repository for the website. Please send Taylor Whitaker an email containing your GitHub username so that you can be added as a contributor.
 
-
-
 - Once you are added to the repo, you will be able to write to the repo located at: https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io
 
-clone the repository to your own computer so that you can start to make and edit your own project pages.
- and either a command line interface or desktop client, like the [GitHub Desktop application](https://desktop.github.com),  
+- You can edit directly on the website or you can clone the repository to your own computer so that you can start to make and edit your own project pages. This requires either a command line interface or desktop client, like the [GitHub Desktop application](https://desktop.github.com)
+
+- The master branch of the repo is locked and so everyone will have their own branch. If editing on the website, you can select your branch you wish to make changes to on the tool bar like below with "ExampleBranch". Otherwise, you will have to make commits to the appropriate branch with the command line or desktop client.
+
+<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloControlUnit.png?raw=True"/> </p>
+
+- Changes that are made to each branch will not show up on the website until a pull-request is submitted. You may do this yourself if you know how, or can send an email to Taylor Whitaker to finalize the changes.
 
 There are a number directories in the website folder that is downloaded. These are the important ones.
 - Docs
