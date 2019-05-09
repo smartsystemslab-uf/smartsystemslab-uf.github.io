@@ -10,7 +10,7 @@ This page is meant help everyone understand GitHub and the setup of our new lab 
 
 - The master branch of the repo is locked and so everyone will have their own branch. If editing on the website, you can select your branch you wish to make changes to on the tool bar like below with "ExampleBranch". Otherwise, you will have to make commits to the appropriate branch with the command line or desktop client.
 
-<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/ArloAGV/Images/ArloControlUnit.png?raw=True"/> </p>
+<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Docs/ChangingBranchesWithOnlineEditor.png?raw=True"/> </p>
 
 - Changes that are made to each branch will not show up on the website until a pull-request is submitted. You may do this yourself if you know how, or can send an email to Taylor Whitaker to finalize the changes.
 
