@@ -4,7 +4,7 @@ This page is meant help everyone understand GitHub and the setup of our new lab 
 
 - The first requirement is a GitHub account for accessing the git repository for the website. Please send Taylor Whitaker an email containing your GitHub username so that you can be added as a contributor.
 
-- Once you are added to the repo, you will be able to write to the repo located at: (https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io)
+- Once you are added to the repo, you will be able to write to the repo located at: [https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io](https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io)
 
 - You can edit directly on the website or you can clone the repository to your own computer so that you can start to make and edit your own project pages. This requires either a command line interface or desktop client, like the [GitHub Desktop application](https://desktop.github.com)
 
@@ -37,7 +37,9 @@ The MarkdownConventions folder holds a few examples of what styling you can use 
 
 ### Projects
 
-This folder holds all the project pages. Every project needs its own directory that will contain a README.md file for the content and an images folder for any images used. Take a look at some of the existing project folders and the resulting pages. You can use [the template README.md]() file to start writing your content.
+This folder holds all the project pages. Every project needs its own directory that will contain a README.md file for the content and an images folder for any images used. Take a look at some of the existing project folders and the resulting pages. You can use [the template README.md](https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/tree/master/Docs/Template) file to start writing your content.
+
+Since changes are not immediately added to the actual website, you need to be able to see how it will end up looking. With all pages being written as a README.md, you can see how the page will look when accessing the repo via GitHub.com and navigating to your project folder.
 
 
 ### News
