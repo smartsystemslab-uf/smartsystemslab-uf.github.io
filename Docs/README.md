@@ -2,6 +2,8 @@
 
 This page is meant help everyone understand GitHub and the setup of our new lab website as well as how to add/edit project and news pages.
 
+## Main Points
+
 - The first requirement is a GitHub account for accessing the git repository for the website. Please send Taylor Whitaker an email containing your GitHub username so that you can be added as a contributor.
 
 - Once you are added to the repo, you will be able to write to the repo located at: [https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io](https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io)
