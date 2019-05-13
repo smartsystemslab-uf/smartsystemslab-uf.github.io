@@ -10,7 +10,7 @@ This page is meant help everyone understand GitHub and the setup of our new lab 
 
 - You can edit directly on the website or you can clone the repository to your own computer so that you can start to make and edit your own project pages. This requires either a command line interface or desktop client, like the [GitHub Desktop application](https://desktop.github.com)
 
-- The master branch of the repo is locked and so everyone will have their own branch. If editing on the website, you can select your branch you wish to make changes to on the tool bar like below with "ExampleBranch".Otherwise, you will have to make commits to the appropriate branch with the command line or desktop client. Once added to the repo, you will have a branch named after you created for you.
+- The master branch of the repo is locked and so everyone will have their own branch. If editing on the website, you can select your branch you wish to make changes to on the tool bar like below with "ExampleBranch." Otherwise, you will have to make commits to the appropriate branch with the command line or desktop client. Once added to the repo, you will have a branch named after you created for you.
 
 <p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Docs/ChangingBranchesWithOnlineEditor.png?raw=True"/> </p>
 
