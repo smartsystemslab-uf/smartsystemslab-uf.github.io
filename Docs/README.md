@@ -17,9 +17,9 @@ This page is meant help everyone understand GitHub and the setup of our new lab 
 - Changes that are made to each branch will not show up on the website until a pull-request is submitted. You may do this yourself if you know how, or can send an email to Taylor Whitaker to finalize the changes.
 
 
-## Website Directories
+## Repository Directories
 
-There are a number directories in the website folder that is downloaded. These are the important ones.
+There are a number directories in the website repo. These are the important ones:
 
 - Docs
 - News
