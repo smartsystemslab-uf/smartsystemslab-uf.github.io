@@ -54,5 +54,8 @@ Comparison of frame-based and event-based processing for a scene with three obje
 ### Pettent 
 - Pankaj Bhowmik, Md Jubaer Hossain Pantho, Marjan Asadinia, and Christophe Bobda. US Patent, “Reconfigurable 3D Pixel-Parallel Neuromorphic Architecture for Smart Image Sensor”.
 
+### Rewards
+- Best Poster Presentation Award for presenting the paper titled as "Design of a Reconfigurable 3D Pixel-Parallel Neuromorphic Architecture for Smart Image Sensor" at the conference on Computer Vision and Pattern Recognition Workshops, Salt Lake, Utah, USA. 
+
 
 Updated: 6 March 2019, Published: 4 March 2019
