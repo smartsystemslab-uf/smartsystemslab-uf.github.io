@@ -10,7 +10,7 @@
 
 ## Description
 The AMoC project (Adaptive Multiprocessors-on-Chip) is funded by the Deutsche Forschungsgemeintschaft (German Research Foundation) and focusses on the design of adaptive reconfigurable chip multiprocessor systems. Therefore, a design methodology for FPGA-based (Field- Programmable Gate Array) multiprocessorsystems on chip was developed and can be seen in the following figure:
-<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Mandebi/Projects/AMoC/Images/arch_synthesis_flow_complete_edit.jpg"/> </p>
+<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Mandebi/Projects/AMoC/Images/arch_synthesis_flow_complete_edit.jpg?raw=True"/> </p>
 <p align="center">
 	Design Flow
 </p>
