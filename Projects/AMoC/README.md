@@ -6,11 +6,9 @@
 
 # AMoC - Adaptive Multiprocessor on-Chip
 
-
-
 ## Description
 The AMoC project (Adaptive Multiprocessors-on-Chip) is funded by the Deutsche Forschungsgemeintschaft (German Research Foundation) and focusses on the design of adaptive reconfigurable chip multiprocessor systems. Therefore, a design methodology for FPGA-based (Field- Programmable Gate Array) multiprocessorsystems on chip was developed and can be seen in the following figure:
-<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Mandebi/Projects/AMoC/Images/arch_synthesis_flow_complete_edit.jpg"/> </p>
+<p align="center"> <img width="640" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/master/Projects/AMoC/Images/arch_synthesis_flow_complete_edit.jpg?raw=True"/> </p>
 <p align="center">
 	Design Flow
 </p>
@@ -28,11 +26,8 @@ MPI and Xilinx tools currently require separate installations. You can obtain MP
 Xilinx tools can be directly obtained from the vendor, and they require a license. You also need the Java Runtime Environment. In the unlikely event that your machine has none installed, you can obtain a copy from <a href="http://www.java.com/en/download/manual.jsp" target="_parent">SUN</a>.
 
 ## Download
-    
-<li><a class="pdf_link" href="files/ilpf.pdf">A User's Guide to PinHat Synthesis Engine</a> (Vers. 0.1)</li>
-        
+<ul><li><a class="pdf_link" href="files/ilpf.pdf">A User's Guide to PinHat Synthesis Engine</a> (Vers. 0.1)</li></ul><br>
 <b>Note that this site is work in progress. PinHaT and the SoC-MPI library will be available soon.</b>
-
 
 ## Publications
 [1] Harold Ishebabi and Christophe Bobda. Automated architecture synthesis for adaptive multiprocessors on chip systems. In Journal of Microprocessors and Microsystems. Elsevier Science, August 2008.<br>
