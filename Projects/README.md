@@ -3,6 +3,7 @@
 </p>
 
 ## Projects
+- [AMoC](https://smartsystemslab-uf.github.io/Projects/AMoC)
 
 - [Arlo Autonomous Ground Vehicle](https://smartsystemslab-uf.github.io/Projects/ArloAGV)
 
