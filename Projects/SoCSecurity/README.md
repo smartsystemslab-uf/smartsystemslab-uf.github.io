@@ -19,7 +19,7 @@ The goal of this project is the secure operation of non-trusted IPs in SoC. Figu
 ## Component Authentication Process for Sandboxed Layouts (CAPSL):
 We developed a tool for automatic generation of hardware sandboxes, introduced in [1] for suspicious IPs. We address IP verification with the use of sandboxing to provide system protection from suspicious IPs with the use of behavioral monitors to detect illegal interactions and isolate possible damage with physical separation and virtualized resources. The CAPSL design flow develops a formal model of an IP’s interactions at its interface to generate the necessary elements to securely wrap the IP for integration into a trusted system. We capture the overall behavior of an IP from configuration files specifying interface information (connections and behavior), illegal actions, and system resource requirements. We capture component interactions with the interface automata (IA), while proposing a subset of the Properties Specification Language (PSL) and sequential extended regular expressions (SERE) for defining unauthorized behavior. Each element of the sandbox can be output as a design file of the same format (VHDL, SystemC, etc) as the system in which they are to be integrated.
 
-<p align="center"> <img width="420" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/CAPSL.png"/> </p>
+<p align="center"> <img height ="320" width="420" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/CAPSL.png"/> </p>
 <p align="center">
 	Steps followed by CAPSL to generate hardware sandbox
 </p>
