@@ -13,7 +13,7 @@ The goal of this project is the secure operation of non-trusted IPs in SoC. Figu
  
 <p align="center"> <img height ="290" width="300" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/Sandbox.jpg"/> </p>
 <p align="center">
-	Block Diagram of Hardware Sandbox
+	Figure 1: Block Diagram of Hardware Sandbox
 </p>
 
 ## Component Authentication Process for Sandboxed Layouts (CAPSL):
@@ -21,7 +21,7 @@ We developed a tool for automatic generation of hardware sandboxes, introduced i
 
 <p align="center"> <img height ="240" width="420" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/CAPSL.png"/> </p>
 <p align="center">
-	Steps followed by CAPSL to generate hardware sandbox
+	Figure 2: Steps followed by CAPSL to generate hardware sandbox
 </p>
 
 The GitHub link of CAPSL tool is given below. 
