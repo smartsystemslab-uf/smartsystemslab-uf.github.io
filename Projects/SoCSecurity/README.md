@@ -34,11 +34,9 @@ Accessing custom hardware IPs in FPGA accelerated SoCs are not controlled by the
 
 
 <p > 
-	<img align="left" height ="240" width="300" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/HACU.png"/> 
+	<img align="left" height ="200" width="300" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/HACU.png" title="Figure 3: Secured SoC Architecture with HACU and Hardware Sandbox"/> 
 	<img align="right" height ="240" width="300" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/Flask_archirectire.png"/>
 </p>
-<p align="left">
-	Figure 3: Secured SoC Architecture with HACU and Hardware Sandbox
-</p>
+
 
 
