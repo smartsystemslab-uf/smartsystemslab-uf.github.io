@@ -32,7 +32,7 @@ https://smartes.uark.edu/project/capsl/
 ## Flask Security Architecture in SoC:
 Accessing custom hardware IPs in FPGA accelerated SoCs are not controlled by the Operating system. Hence, there is a possibility of confidential information leakage and denial of service attacks on those IPs. In this project, we propose a hardware isolation approach to ensure controlled access to hardware IPs in the FPGA part of an SoC. The figure describes the architecture of our proposed FPGA accelerated secured embedded system. The access to an IP is enforced through the Access Control Unit (HMM) which is a hardware-software co-design and work with the Flask security architecture (described in the figure) integrated into the operating system. The benefit of using this security framework is less area overhead and can be easily integrated into the system.
 
-<p align="center"> <img height ="240" width="420" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/HACU.png"/> </p>
+<p align="left"> <img height ="240" width="420" src="https://github.com/smartsystemslab-uf/smartsystemslab-uf.github.io/blob/Sujan05-patch-1/Projects/SoCSecurity/Images/HACU.png"/> </p>
 <p align="center">
 	Figure 3: Secured SoC Architecture with HACU and Hardware Sandbox
 </p>
