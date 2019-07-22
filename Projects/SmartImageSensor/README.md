@@ -49,7 +49,7 @@ Comparison of frame-based and event-based processing for a scene with three obje
 - Pankaj Bhowmik, Md Jubaer Hossain Pantho, and Christophe Bobda. "Visual Cortex Inspired Pixel-Level Re-configurable Processors for Smart Image Sensors." In Proceedings of Design and Automation Conference 2019(DAC)
 - Pankaj Bhowmik, Md Jubaer Hossain Pantho, Sujan Saha, and Christophe Bobda. "A Reconfigurable Layered-Based Bio-Inspired Smart Image Sensor." In 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI) [Accepted In DAC2019 as work in process]
 - Md Jubaer Hossain Pantho, Pankaj Bhowmik, and Christophe Bobda."Neuromorphic Image Sensor Design with Region-Aware Processing." In 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI).
-- Event-Based Re-configurable Hierarchical Processors for  Smart Image Sensors." In the Proceedings of the IEEE Application-Specific Systems, Architecture and Processor 2019.
+- Pankaj Bhowmik, Md Jubaer Hossain Pantho, and Christophe Bobda. "Event-Based Re-configurable Hierarchical Processors for  Smart Image Sensors." In the Proceedings of the IEEE Application-Specific Systems, Architecture and Processor 2019.
 
 ### Pettent 
 - Pankaj Bhowmik, Md Jubaer Hossain Pantho, Marjan Asadinia, and Christophe Bobda. US Patent, “Reconfigurable 3D Pixel-Parallel Neuromorphic Architecture for Smart Image Sensor”.
@@ -57,5 +57,7 @@ Comparison of frame-based and event-based processing for a scene with three obje
 ### Rewards
 - Best Poster Presentation Award for presenting the paper titled as "Design of a Reconfigurable 3D Pixel-Parallel Neuromorphic Architecture for Smart Image Sensor" at the conference on Computer Vision and Pattern Recognition Workshops, Salt Lake, Utah, USA. 
 
-
+### Acknowledgment
+This project is supported by the National Science Foundation (NSF) under Grant-1618606.
+ 
 Updated: 6 March 2019, Published: 4 March 2019
